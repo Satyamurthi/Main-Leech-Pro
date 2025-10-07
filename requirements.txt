@@ -13,3 +13,5 @@ lxml
 requests
 messages
 js2py
+ytdlp
+youtube-dl
